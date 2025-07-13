@@ -1,0 +1,1 @@
+Mayumi V2.1 = 16F84 (16F84A is not compatible)
